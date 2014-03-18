@@ -1,0 +1,8 @@
+author: JamesHealey94
+website: https://github.com/JamesHealey94
+
+name: SimpleTowns-Dynmap
+main: com.gmail.jameshealey1994.simpletownsdynmap.SimpleTownsDynmap
+version: 0.1
+
+depend: [Dynmap, SimpleTowns]
